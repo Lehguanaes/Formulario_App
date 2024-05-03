@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C8A2C8&size=35&center=true&vCenter=true&width=1000&lines=App+com+interface+para+cadastro!;Feito+com+kotlin.;Formulário.)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=E40071&size=35&center=true&vCenter=true&width=1000&lines=App+com+interface+para+Cadastro!;Feito+com+kotlin.;Formulário.)](https://git.io/typing-svg)
 
 Primeiro aplicativo contendo uma interface de Cadastro do Usuario.
   
